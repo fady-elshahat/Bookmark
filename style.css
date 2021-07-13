@@ -1,0 +1,23 @@
+.titel{
+     border-bottom: 1px solid #555;
+}
+.content{
+     background-color: #fafafa;
+}
+footer{
+     font-size: 24px;
+     border-top: 1px solid #555;
+     border-width: 75%;
+}
+#p-alert1 
+,#p-alert2{
+     background-color: #ffb2b2;
+     color:#943030;
+     font-size: 20px;
+     font-weight: 600;
+     display: none;
+     border-radius: 20px;
+}
+#display{
+     background-color: #fafafa;
+}
